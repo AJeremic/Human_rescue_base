@@ -1,0 +1,2 @@
+In the Robotic Base for Human Search and Rescue my contributions were the physics and mechanics calculations to ensure an accurate and reliable base which can be iterated into a large porject. I also contributed significantly
+with Syler Sylvester on the control system and debugging of the BLDC motors using the ODRIVE PRO, I wired the entire robot and helped construct the mechanical pieces of the base.
